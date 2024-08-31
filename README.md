@@ -79,8 +79,7 @@ associated data.
 
 ## Author
 
-This project is maintained by **Harsh Mishra**. You can reach out to me via [LinkedIn](http://www.linkedin.
-com/in/mishraharsh-hmc) for any queries or feedback.
+This project is maintained by **Harsh Mishra**. You can reach out to me via [LinkedIn](http://www.linkedin.com/in/mishraharsh-hmc) for any queries or feedback.
 
 ## Video Demonstration
 
